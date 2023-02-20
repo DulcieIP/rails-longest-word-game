@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+.mycontainer {
+  margin: 50px;
+  text-align:center;
+}
+
+.btn-square {
+  height: 40px;
+  width: 40px;
+  border-radius: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1;
+}
